@@ -1,0 +1,4 @@
+cloudbuild.yaml
+deployment.yaml
+hpa.yaml
+service.yaml
